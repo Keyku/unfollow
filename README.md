@@ -1,7 +1,7 @@
 # unfollow
 Python3 ile yazdım, instagramdan takipçi çıkartmayı sağlıyor
 
-Programı sanal çalışma alanı oluşturup orada çalıştırırsanız daha sağlıklı olur, sistemde bulunan kütüphaneler ile çakışmamış olur. (Kullanım: https://www.sinanerdinc.com/python-virtualenv-kullanimi)
+Programı sanal çalışma alanı oluşturup orada çalıştırırsanız daha sağlıklı olur. (Kullanım: https://www.sinanerdinc.com/python-virtualenv-kullanimi)
 
 Sanal ortam oluşturduktan sonra gerekli bağımlılıkları pip install -r requirements.txt ile kuruyoruz. Bağımlılıkları yükledikten sonra
 python3 main_unfollow.py koduyla programı başlatıyoruz. Macos, windows ve linuxte çalışıyor. 
