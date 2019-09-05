@@ -1,5 +1,5 @@
 # unfollow
-Python3 ile yazdım, instagramdan takipçi çıkartmayı sağlıyor
+Python3 ile yazıldı, instagramdan takipçi çıkartmayı sağlıyor
 
 Programı sanal çalışma alanı oluşturup orada çalıştırırsanız daha sağlıklı olur. (Kullanım: https://www.sinanerdinc.com/python-virtualenv-kullanimi)
 
